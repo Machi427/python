@@ -1,0 +1,15 @@
+>>> from simpledoc import fizzbuzz
+>>> fizzbuzz(0)
+'FizzBuzz'
+>>> fizzbuzz(2)
+'2'
+>>> fizzbuzz(3)
+'Fizz'
+>>> fizzbuzz(4)
+'4'
+>>> fizzbuzz(5)
+'Buzz'
+>>> fizzbuzz(6)
+'Fizz'
+>>> fizzbuzz(15)
+'FizzBuzz'
